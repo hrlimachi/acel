@@ -1,0 +1,4 @@
+corredores profesionales 180 pasos/minuto --> 3 Hz   --> suficiente 50 hz
+librerias Adafruit_Sensor.h y Adafruit_ADXL345_U.h Véase en Anexo 12.3)
+elapsedMillis.h
+diseño de filtros -> Anexos 12.4
